@@ -45,6 +45,8 @@ Como o projeto será executado no Google Colab, a entrega deve ser feita em form
 | **`questao5_analise_final.ipynb`** | Análise comparativa e discussão dos resultados e erros obtidos nas questões anteriores. |
 | `README.md` | Este arquivo, com explicação da abordagem e execução. |
 
+*Nota: Converter o arquivo '.py' para '.ipynb' antes da execução no google colab
+
 ## 🚀 Como Executar no Google Colab
 
 Como o ambiente é o Google Colab (Notebooks Jupyter), a execução é interativa e simplificada.
