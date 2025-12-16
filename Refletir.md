@@ -1,4 +1,4 @@
-🎯 Questão 1 – 1. Simulação de Variáveis Aleatórias Discretas (Dado Honesto)
+## 🎯 Questão 1 – 1. Simulação de Variáveis Aleatórias Discretas (Dado Honesto)
 1. Implementação do Simulador (Código - questao1.py)
 
 A distribuição teórica de um dado honesto é uniforme: P(X=x)=1/6 para x∈{1,2,3,4,5,6}.
@@ -53,7 +53,7 @@ i=1∑6​P(Empıˊricai​)=i=1∑6​NFrequeˆnciai​​=N∑i=16​Frequeˆn
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🎯 Questão 3 – 1. Simulação de Distribuições Contínuas (Normal Truncada)
+## 🎯 Questão 3 – 1. Simulação de Distribuições Contínuas (Normal Truncada)
 1. Definição dos Parâmetros
 
 A variável aleatória X representa valores monetários.
@@ -66,9 +66,9 @@ A variável aleatória X representa valores monetários.
 
     Limites de Truncamento:
 
-       ** Mínimo Inferior (Linf​): R$ 100,00 (Um valor mínimo razoável para a transação)
+       * Mínimo Inferior (Linf​): R$ 100,00 (Um valor mínimo razoável para a transação)
 
-       ** Máximo Superior (Lsup​): R$ 800,00 (Um valor máximo para a transação)
+       * Máximo Superior (Lsup​): R$ 800,00 (Um valor máximo para a transação)
 
 A distribuição é N(500,1002) truncada no intervalo [100,800].
 
@@ -127,7 +127,7 @@ O Método de Monte Carlo consiste em repetir a simulação muitas vezes e calcul
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Questão 5 – 1. Análise Estatística e Interpretação
+## 🎯 Questão 5 – 1. Análise Estatística e Interpretação
 1. Comparação Simulação e Teoria
 
 <img width="927" height="212" alt="tabela" src="https://github.com/user-attachments/assets/0cfb5494-f15a-4f5c-a93e-0d0641335890" />
