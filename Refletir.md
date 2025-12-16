@@ -135,13 +135,13 @@ O Método de Monte Carlo consiste em repetir a simulação muitas vezes e calcul
 
 2. Fontes de Erro
 
-    Erro Estatístico (Amostral): É a diferença inerente entre a amostra (simulação finita N) e a população (distribuição teórica infinita). É a razão pela qual P(Empıˊrica)=P(Teoˊrica) mesmo em Q1. É o erro que diminui com o aumento de N.
+    Erro Estatístico (Amostral): É a diferença inerente entre a amostra (simulação finita N) e a população (distribuição teórica infinita). É a razão pela qual P(Empírica) <> =P(Teórica) mesmo em Q1. É o erro que diminui com o aumento de N.
 
     Erro Computacional:
 
         Pseudo-aleatoriedade: O computador usa um algoritmo (PRNG) para gerar números que parecem aleatórios, mas são determinísticos. Se o período do gerador for curto ou se houver viés no algoritmo, isso introduz erro.
 
-        Arredondamento/Ponto Flutuante: Erros minúsculos (e.g., ϵ) que ocorrem quando o computador representa números reais (1/6=0.16666666666666666).
+        Arredondamento/Ponto Flutuante: Erros minúsculos (e.g., ϵ) que ocorrem quando o computador representa números reais (1/6 <> =0.16666666666666666).
 
 3. Impacto do Aumento do Número de Simulações (N)
 
