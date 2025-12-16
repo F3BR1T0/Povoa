@@ -5,7 +5,7 @@ A distribuição teórica de um dado honesto é uniforme: P(X=x)=1/6 para x∈{1
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4. Discussão sobre a Lei dos Grandes Números (LGN)
+🎯 Questão 1 – 4. Discussão sobre a Lei dos Grandes Números (LGN)
 
 A Lei dos Grandes Números diz que, à medida que o número de repetições de um experimento aleatório aumenta (no caso, N→∞), a média das frequências observadas (probabilidade empírica) converge para o valor esperado (probabilidade teórica).
 
@@ -40,7 +40,7 @@ Verificação: ∑Pi​=0.20+0.15+0.10+0.10+0.05+0.40=1.00. Válida!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4. Consistência da Soma das Probabilidades
+🎯 Questão 2 – 4. Consistência da Soma das Probabilidades
 
 A soma das probabilidades teóricas é 1.00 (por construção).
 
