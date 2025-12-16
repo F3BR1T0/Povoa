@@ -1,4 +1,4 @@
-🎯 Questão 1 – Simulação de Variáveis Aleatórias Discretas (Dado Honesto)
+🎯 Questão 1 – 1. Simulação de Variáveis Aleatórias Discretas (Dado Honesto)
 1. Implementação do Simulador (Código - questao1.py)
 
 A distribuição teórica de um dado honesto é uniforme: P(X=x)=1/6 para x∈{1,2,3,4,5,6}.
@@ -15,7 +15,7 @@ A Lei dos Grandes Números diz que, à medida que o número de repetições de u
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Questão 2 – Dado Não Uniforme e Probabilidade Condicional
+🎯 Questão 2 – 1. Dado Não Uniforme e Probabilidade Condicional
 1. Distribuição de Probabilidade Não Uniforme
 
 Vou propor uma distribuição que favorece faces baixas e a face 6.
@@ -53,7 +53,7 @@ i=1∑6​P(Empıˊricai​)=i=1∑6​NFrequeˆnciai​​=N∑i=16​Frequeˆn
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Questão 3 – Simulação de Distribuições Contínuas (Normal Truncada)
+🎯 Questão 3 – 1. Simulação de Distribuições Contínuas (Normal Truncada)
 1. Definição dos Parâmetros
 
 A variável aleatória X representa valores monetários.
@@ -89,7 +89,8 @@ Interpretação:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Questão 4 – Método de Monte Carlo Aplicado (Fundo de Empréstimos)
+🎯 Questão 4 – 1. Método de Monte Carlo Aplicado (Fundo de Empréstimos)
+
 1. Modelagem e 2. Hipóteses do Modelo
 
 Variável Chave: O número de clientes atendidos (C).
@@ -126,14 +127,12 @@ O Método de Monte Carlo consiste em repetir a simulação muitas vezes e calcul
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Questão 5 – Análise Estatística e Interpretação
+🎯 Questão 5 – 1. Análise Estatística e Interpretação
 1. Comparação Simulação e Teoria
 
 <img width="927" height="212" alt="tabela" src="https://github.com/user-attachments/assets/0cfb5494-f15a-4f5c-a93e-0d0641335890" />
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-2. Fontes de Erro
+🎯 Questão 5 – 2. Fontes de Erro
 
     Erro Estatístico (Amostral): É a diferença inerente entre a amostra (simulação finita N) e a população (distribuição teórica infinita). É a razão pela qual P(Empírica) <> =P(Teórica) mesmo em Q1. É o erro que diminui com o aumento de N.
 
@@ -143,9 +142,7 @@ O Método de Monte Carlo consiste em repetir a simulação muitas vezes e calcul
 
         Arredondamento/Ponto Flutuante: Erros minúsculos (e.g., ϵ) que ocorrem quando o computador representa números reais (1/6 <> =0.16666666666666666).
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-3. Impacto do Aumento do Número de Simulações (N)
+🎯 Questão 5 – 3. Impacto do Aumento do Número de Simulações (N)
 
 O aumento do número de simulações (N) aumenta a precisão dos resultados por causa da Lei dos Grandes Números (LGN):
 
@@ -153,9 +150,7 @@ O aumento do número de simulações (N) aumenta a precisão dos resultados por 
 
     Maior Estabilidade: O resultado se torna menos sensível a flutuações aleatórias de curto prazo. As estimativas (médias, probabilidades) se tornam mais estáveis (o Desvio Padrão da Média diminui).
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-4. Papel da Simulação Computacional em Problemas Reais
+🎯 Questão 5 – 4. Papel da Simulação Computacional em Problemas Reais
 
 A simulação computacional (como Monte Carlo) é crucial para problemas reais onde o cálculo analítico é difícil ou impossível.
 
