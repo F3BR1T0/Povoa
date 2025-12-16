@@ -42,10 +42,10 @@ Como o projeto será executado no Google Colab, a entrega deve ser feita em form
 | **`questao2_dado_viciado.ipynb`** | Proposta e estimação de distribuição não uniforme. |
 | **`questao3_normal_truncada.ipynb`** | Simulação e análise de estatísticas de uma distribuição contínua truncada. |
 | **`questao4_monte_carlo.ipynb`** | Aplicação do Método de Monte Carlo para estimativa de clientes atendidos. |
-| **`questao5_analise_final.ipynb`** | Análise comparativa e discussão dos resultados e erros obtidos nas questões anteriores. |
+| **`questao5_analise_final (sem execução)`** | Análise comparativa e discussão dos resultados e erros obtidos nas questões anteriores. |
 | `README.md` | Este arquivo, com explicação da abordagem e execução. |
 
-**Nota:** Converter o arquivo `.py` para `.ipynb` antes da execução no google colab
+* **Nota:** Converter o arquivo `.py` para `.ipynb` antes da execução no google colab
 
 ## 🚀 Como Executar no Google Colab
 
