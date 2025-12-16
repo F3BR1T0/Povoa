@@ -1,4 +1,4 @@
-### **Nota:** o nome próprio "Povoa" para o diretório em questão foi usado apenas para homenagem interna. Proibido o uso para fins monetários ou comerciais.   
+### **Nota:** o nome próprio `POVOA` para o diretório em questão foi usado apenas para homenagem interna. Proibido o uso para fins monetários ou comerciais.   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Prova de Estatística 
