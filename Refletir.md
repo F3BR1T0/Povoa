@@ -66,9 +66,9 @@ A variável aleatória X representa valores monetários.
 
     Limites de Truncamento:
 
-       **Mínimo Inferior (Linf​): R$ 100,00 (Um valor mínimo razoável para a transação)
+       Mínimo Inferior (Linf​): R$ 100,00 (Um valor mínimo razoável para a transação)
 
-       * **Máximo Superior (Lsup​): R$ 800,00 (Um valor máximo para a transação)
+       Máximo Superior (Lsup​): R$ 800,00 (Um valor máximo para a transação)
 
 A distribuição é N(500,1002) truncada no intervalo [100,800].
 
