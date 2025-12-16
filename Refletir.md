@@ -129,6 +129,6 @@ O Método de Monte Carlo consiste em repetir a simulação muitas vezes e calcul
 🎯 Questão 5 – Análise Estatística e Interpretação
 1. Comparação Simulação e Teoria
 
-2. Experimento,Simulação,Teoria (Esperado),Observação
-Q1 (Dado Honesto),P(face)≈0.166...,P(face)=1/6≈0.166667,"Excelente convergência devido à LGN, confirmando a justeza do dado."
-Q3 (Normal Truncada),Média ≈500.0,Média =500.0 (Se não for truncada),"A média simulada deve ser próxima de 500, e a variância menor que a teórica."
+2.Experimento	Simulação	Teoria (Esperado)	Observação
+Q1 (Dado Honesto)	P(face)≈0.166...	P(face)=1/6≈0.166667	Excelente convergência devido à LGN, confirmando a justeza do dado.
+Q3 (Normal Truncada)	Média ≈500.0	Média =500.0 (Se não for truncada)	A média simulada deve ser próxima de 500, e a variância menor que a teórica.
