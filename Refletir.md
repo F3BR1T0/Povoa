@@ -131,7 +131,8 @@ O Método de Monte Carlo consiste em repetir a simulação muitas vezes e calcul
 
 <img width="927" height="212" alt="tabela" src="https://github.com/user-attachments/assets/0cfb5494-f15a-4f5c-a93e-0d0641335890" />
 
-NOTAS:::
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 2. Fontes de Erro
 
     Erro Estatístico (Amostral): É a diferença inerente entre a amostra (simulação finita N) e a população (distribuição teórica infinita). É a razão pela qual P(Empıˊrica)=P(Teoˊrica) mesmo em Q1. É o erro que diminui com o aumento de N.
