@@ -15,7 +15,7 @@ A Lei dos Grandes Números diz que, à medida que o número de repetições de u
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Questão 2 – 1. Dado Não Uniforme e Probabilidade Condicional
+## 🎯 Questão 2 – 1. Dado Não Uniforme e Probabilidade Condicional
 1. Distribuição de Probabilidade Não Uniforme
 
 Vou propor uma distribuição que favorece faces baixas e a face 6.
@@ -53,7 +53,7 @@ i=1∑6​P(Empıˊricai​)=i=1∑6​NFrequeˆnciai​​=N∑i=16​Frequeˆn
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Questão 3 – 1. Simulação de Distribuições Contínuas (Normal Truncada)
+# 🎯 Questão 3 – 1. Simulação de Distribuições Contínuas (Normal Truncada)
 1. Definição dos Parâmetros
 
 A variável aleatória X representa valores monetários.
@@ -66,9 +66,9 @@ A variável aleatória X representa valores monetários.
 
     Limites de Truncamento:
 
-        Mínimo Inferior (Linf​): R$ 100,00 (Um valor mínimo razoável para a transação)
+       ** Mínimo Inferior (Linf​): R$ 100,00 (Um valor mínimo razoável para a transação)
 
-        Máximo Superior (Lsup​): R$ 800,00 (Um valor máximo para a transação)
+       ** Máximo Superior (Lsup​): R$ 800,00 (Um valor máximo para a transação)
 
 A distribuição é N(500,1002) truncada no intervalo [100,800].
 
