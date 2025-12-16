@@ -143,6 +143,8 @@ O Método de Monte Carlo consiste em repetir a simulação muitas vezes e calcul
 
         Arredondamento/Ponto Flutuante: Erros minúsculos (e.g., ϵ) que ocorrem quando o computador representa números reais (1/6 <> =0.16666666666666666).
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 3. Impacto do Aumento do Número de Simulações (N)
 
 O aumento do número de simulações (N) aumenta a precisão dos resultados por causa da Lei dos Grandes Números (LGN):
@@ -150,6 +152,8 @@ O aumento do número de simulações (N) aumenta a precisão dos resultados por 
     Diminuição do Erro Amostral: A LGN garante que a média empírica converge para o valor esperado teórico. Quanto maior N, mais próxima estará a estimativa, reduzindo o erro amostral.
 
     Maior Estabilidade: O resultado se torna menos sensível a flutuações aleatórias de curto prazo. As estimativas (médias, probabilidades) se tornam mais estáveis (o Desvio Padrão da Média diminui).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 4. Papel da Simulação Computacional em Problemas Reais
 
